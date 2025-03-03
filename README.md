@@ -14,9 +14,10 @@ Information updated: 2025/03/01. Let me know if you find any outdated informatio
 
 ## Firmware
 Currently, this machine has NO RW_LEGACY firmware available, so if you want to install a custom OS, you may have to flash the full UEFI firmware.
-(running Mainline Linux may be possible with the stock firmware(which is based on depthcharge), but I've not tested it. If you succeed, please let me know.)
 
-You can find custom coreboot firmware [here](https://mrchromebox.tech/#fwscript). Follow their instructions to flash the firmware.
+*Although not recommended, technically booting mainline Linux may be possible with the stock firmware(which is based on depthcharge), but I've not tested it. If you succeed, please let me know.*
+
+You can find custom coreboot firmware made by MrChromeBox [here](https://mrchromebox.tech/). Follow their instructions to flash the firmware.
 
 ## Installation
 After flashing the firmware, you can install any your favorite Linux distribution as usual.
